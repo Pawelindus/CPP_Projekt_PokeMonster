@@ -42,5 +42,3 @@ Wybór stworzeń oraz ataków ma się odbywać przez klawiaturę. Interfejs uży
 Każde stworzenie może po uzyskaniu określonej dla niego liczby EXP ewoluować, zwiększając 
 swoje atrybuty. Gracz ma mieć możliwość decydować które dwa atrybuty chce powiększyć w 
 stworzeniu.
-
-![image](https://user-images.githubusercontent.com/60191372/210362933-6ca6e135-106c-4dfc-8423-ddc91c979e94.png)
